@@ -1,6 +1,0 @@
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\bin\Debug\ThreadWorker.dll
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\bin\Debug\ThreadWorker.pdb
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\obj\Debug\ThreadWorker.csprojAssemblyReference.cache
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\obj\Debug\ThreadWorker.csproj.CoreCompileInputs.cache
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\obj\Debug\ThreadWorker.dll
-C:\Users\Ryan\source\repos\ThreadWorker\ThreadWorker\obj\Debug\ThreadWorker.pdb
